@@ -1,5 +1,5 @@
 {
-  "name": "asisipho",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,16 +19,20 @@
   "keywords": [],
   "author": {
     "name": "",
-    "email": "missfente@gmail.com",
-    "url": "https:/"
+    "email": "",
+    "url": ""
   },
-  "contributors": [],
+  "contributors": [
+
+  ],
   "scripts": {
     "dev": "",
     "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+
+  },
   "devDependencies": {
-    "mocha": "^10.2.0"
+
   }
 }
