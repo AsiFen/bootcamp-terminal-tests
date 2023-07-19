@@ -1,5 +1,5 @@
 import assert from "assert";
-import transportFee from "../transportFee.js";
+import transportFee from "../js/transportFee.js";
 
 describe("transportFee function", function () {
     describe("Based on when is your shift, it tells you how much transport money you will be allocated.", function () {

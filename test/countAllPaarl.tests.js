@@ -1,5 +1,5 @@
 import assert from "assert";
-import countAllPaarl from "../countAllPaarl.js";
+import countAllPaarl from "../js/countAllPaarl.js";
 
 describe('countAllPaarl function', function () {
     describe('This function has two parameters, one that is a list separated by commas with registration numbers and the second the locator of any Town it return how many registration numbers are from that town.', function () {

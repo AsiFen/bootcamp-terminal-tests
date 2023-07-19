@@ -1,5 +1,5 @@
 import assert from "assert";
-import isFromBellville from "../isFromBellville.js";
+import isFromBellville from "../js/isFromBellville.js";
 
 describe("isFromBellville function", function () {
     describe("Check if a car's registration is from Bellvile or not.", function () {

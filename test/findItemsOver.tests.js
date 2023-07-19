@@ -1,5 +1,5 @@
 import assert from "assert";
-import findItemsOver from "../findItemsOver.js";
+import findItemsOver from "../js/findItemsOver.js";
 
 describe("findItemsOver function", function () {
     describe("Returns all items from a list whose quantity is greater than the given threshold.", function () {

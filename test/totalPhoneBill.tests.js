@@ -1,5 +1,5 @@
 import assert from "assert";
-import totalPhoneBill from "../totalPhoneBill.js";
+import totalPhoneBill from "../js/totalPhoneBill.js";
 
 describe("totalPhoneBill function", function () {
     describe("It calculates how much your calls and smsses bill will cost.", function () {

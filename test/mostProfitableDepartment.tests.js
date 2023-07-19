@@ -1,5 +1,5 @@
 import assert from "assert";
-import mostProfitableDepartment from "../mostProfitableDepartment.js";
+import mostProfitableDepartment from "../js/mostProfitableDepartment.js";
 
 describe("mostProfitableDepartment function", function () {
     describe("Checks for the department thats bring in most money through sales.", function () {

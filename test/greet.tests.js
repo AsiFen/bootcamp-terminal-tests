@@ -1,5 +1,5 @@
 import assert from "assert";
-import greet from "../greet.js";
+import greet from "../js/greet.js";
 
 describe('Greet function', function () {
   describe('This function greets a user with hello and their name', function () {

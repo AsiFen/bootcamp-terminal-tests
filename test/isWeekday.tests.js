@@ -1,5 +1,5 @@
 import assert from "assert";
-import isWeekday from "../isWeekday.js";
+import isWeekday from "../js/isWeekday.js";
 
 describe("isWeekday of function", function () {
     describe("Check if day entered is the a day of the week", function () {

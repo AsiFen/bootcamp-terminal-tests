@@ -1,5 +1,5 @@
 import assert from "assert";
-import regCheck from "../regCheck.js";
+import regCheck from "../js/regCheck.js";
 
 describe("regCheck function", function () {
     describe("Checks if registration string entered is from a certain location", function () {

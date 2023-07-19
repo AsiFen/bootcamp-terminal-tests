@@ -1,5 +1,5 @@
 import assert from "assert";
-import countAllFromTown from "../countAllFromTown.js";
+import countAllFromTown from "../js/countAllFromTown.js";
 
 describe('countAllFromTown function', function () {
     describe('This function counts how many car registration numbers are from a chosen town.', function () {
