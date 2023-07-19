@@ -22,15 +22,12 @@
     "email": "missfente@gmail.com",
     "url": "https:/"
   },
-  "contributors": [
-
-  ],
+  "contributors": [],
   "scripts": {
     "dev": "",
     "test": "mocha"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^10.2.0"
   }
