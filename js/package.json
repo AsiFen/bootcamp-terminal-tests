@@ -1,5 +1,5 @@
 {
-  "name": "asi",
+  "name": "fenty",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,14 +20,19 @@
   "author": {
     "name": "",
     "email": "missfente@gmail.com",
-    "url": "https://"
+    "url": "https:/"
   },
-  "contributors": [],
+  "contributors": [
+
+  ],
   "scripts": {
     "dev": "",
     "test": "mocha"
   },
+  "dependencies": {
+
+  },
   "devDependencies": {
-    "mocha": "^10.2.0"
+
   }
 }
